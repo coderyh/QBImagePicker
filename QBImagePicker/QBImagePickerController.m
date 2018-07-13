@@ -25,7 +25,7 @@
 - (instancetype)init
 {
     self = [super init];
-    
+    NSLog(@"wtf---yh");
     if (self) {
         // Set default values
         self.assetCollectionSubtypes = @[
